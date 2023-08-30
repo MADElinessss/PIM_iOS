@@ -9,7 +9,7 @@
          <a href=""><br /><br /><sub><b> PM: 미로 </b></sub></a><br />
       </td>
       <td align="center">
-        <a href="[링크2](https://github.com/MADElinessss)"><br /><br /><sub><b>iOS 개발: 매들린 </b></sub></a><br />
+        <a href="https://github.com/MADElinessss"><br /><br /><sub><b>iOS 개발: 매들린 </b></sub></a><br />
       </td>
       <td align="center">
          <a href=""><br /><br /><sub><b>iOS 개발: 로렌조</b></sub></a><br />
